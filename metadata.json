@@ -1,0 +1,6 @@
+{
+  "name": "AI ChatBot Mobile App Engine",
+  "description": "Enterprise-grade AI Chatbot mobile simulator and developer cockpit built with React Native Expo structures and server-side Gemini API.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
